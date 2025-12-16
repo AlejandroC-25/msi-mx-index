@@ -1,0 +1,12 @@
+Resumen (Top 10) — Impacto esperado ante shocks 1σ
+Interpretación: signo (+) sube, (-) baja. Valores ~ % de retorno mensual.
+
+- ALFAA.MX: Tasas(1σ) → +1.08% (sube), FX(1σ) → -3.21% (baja). Dominante: FX.
+- GMEXICOB.MX: Tasas(1σ) → -1.77% (baja), FX(1σ) → +1.39% (sube). Dominante: TASAS.
+- PE&OLES.MX: Tasas(1σ) → -1.47% (baja), FX(1σ) → +1.06% (sube). Dominante: TASAS.
+- BIMBOA.MX: Tasas(1σ) → -0.33% (baja), FX(1σ) → +1.23% (sube). Dominante: FX.
+- GFINBURO.MX: Tasas(1σ) → +0.44% (sube), FX(1σ) → -0.58% (baja). Dominante: FX.
+- WALMEX.MX: Tasas(1σ) → -0.22% (baja), FX(1σ) → +0.77% (sube). Dominante: FX.
+- FEMSAUBD.MX: Tasas(1σ) → +0.25% (sube), FX(1σ) → +0.58% (sube). Dominante: FX.
+- CEMEXCPO.MX: Tasas(1σ) → -0.51% (baja), FX(1σ) → +0.27% (sube). Dominante: TASAS.
+- KIMBERA.MX: Tasas(1σ) → +0.04% (sube), FX(1σ) → +0.04% (sube). Dominante: FX.
